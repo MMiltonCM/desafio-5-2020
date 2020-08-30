@@ -1,0 +1,5 @@
+{
+    "title":"ngIf directive",
+    "url":"https://www.acontracorrientech.com/directives-en-angular-guia-practica/",
+    "body":"sintaxis más común: *ngIf='condition'. La condición tiene que ser cualquier expresión que sea true o false o que pueda resultar en true o false. sintaxis menos común: *ngIf='condition; else condition'. tipo: Structural directive, porque cambia la estructura del DOM, es decir, o incluye un elemento o no lo incluye. No está oculto. Simplemente, o existe o no existe en el DOM. El asterisco inicial es lo que indica que es una structural directive."
+}

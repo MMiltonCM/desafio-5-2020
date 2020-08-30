@@ -1,0 +1,5 @@
+{
+    "title":"Entendiendo el código del componente",
+    "url":"https://desarrolloweb.com/articulos/introduccion-componentes-angular2.html",
+    "body":"{{title}} Eso es una expresión. Angular lo sustiruirá por el contenido de una variable 'title' antes de mostrarlo al cliente."
+}

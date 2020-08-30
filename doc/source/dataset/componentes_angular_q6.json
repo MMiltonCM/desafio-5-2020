@@ -1,0 +1,5 @@
+{
+    "title":"Entendiendo el código del componente",
+    "url":"https://desarrolloweb.com/articulos/introduccion-componentes-angular2.html",
+    "body":"@Component({ moduleId: module.id, selector: 'proyecto-angular2-app', templateUrl: 'proyecto-angular2.component.html', styleUrls: ['proyecto-angular2.component.css']}) Una de ellas es el 'selector' de este componente, o el nombre de la etiqueta que se usará cuando se desee representar. Luego está asociada la vista (propiedad 'templateUrl') al archivo .html del componente y su estilo (propiedad 'styleUrls') a un array de todas las hojas de estilo que deseemos."
+}
